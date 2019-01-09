@@ -1,2 +1,2 @@
 Example of tab navigator customization.
-![img](Screen_Shot_01.png)
+![img](Screen Shot 2019-01-09 at 10.08.00 AM.png)
